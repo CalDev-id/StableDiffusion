@@ -11,7 +11,7 @@ import SwiftUI
 struct StableDiffusionApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MultimodalChatView()
         }
     }
 }
